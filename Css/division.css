@@ -1,0 +1,13 @@
+#one{
+    background-color: palegoldenrod;
+    text-align: center;
+}
+#two{
+    background-color: palegreen;
+}
+.img {
+    width: 200px;
+    align-items: center;
+    border-radius: 20
+}
+

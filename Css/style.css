@@ -1,0 +1,44 @@
+body{
+    background-color: papayawhip;
+
+    margin-top: 20px;
+    margin: 30px;
+    text-align:center;
+}
+p{
+    color: blue;
+}
+.one{
+    color: darkred;
+    border: crimson 2px solid  ;
+    border-radius: 50px;
+
+}
+.b{
+    color: darkviolet;
+    border: magenta 1px dotted;
+    border-radius: 20px;
+    padding: 20px;
+}
+a {
+    color: black;
+    text-decoration-line: none;
+    text-align: center;
+}
+.s{
+    font-size: 20px;
+}
+.r{
+    font-size: 30px ;
+}
+.s{
+width: 40%;
+border-radius: 40px;
+}
+a:hover{
+    color: aquamarine;
+    border-bottom: darkblue 3px solid;
+}
+img:hover{
+
+}
